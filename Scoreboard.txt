@@ -3,7 +3,8 @@ June 25, 2026:
 - finished apartment application
 
 June 26, 2026:
-- git commited review steps and next step ideas
+- commited review steps and next step ideas to Yoda
 - created /research Claude command
 - tested/reworked /research command
 - tested /research command on Yoda
+- committed /research command to Yoda, pushed to Github, added note to README
