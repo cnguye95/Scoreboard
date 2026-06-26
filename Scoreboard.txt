@@ -1,3 +1,7 @@
-June 25, 2026
+June 25, 2026:
 - sent resume to contact(_______) for job opportunities at company: ____
 - finished apartment application
+
+June 26, 2026:
+- git commited review steps and next step ideas
+- created /research Claude command
