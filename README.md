@@ -1,6 +1,6 @@
 # Scoreboard
 
-A daily log of verifiable, public actions.
+A daily log of verifiable, public actions, as well as notable milestones, achievements, or triumphs worth noting. 
 
 This exists to keep me accountable and to give me a daily scoreboard to
 measure progress. The rule: only things that produce an artifact someone
@@ -20,3 +20,4 @@ did a real shot go over the net today — yes or no.
 ## 2026-06-25
 - pushed retrieval refactor to Yoda, tests green
 - 1 application sent (Company X)
+- moved to next interview stage at company Y
