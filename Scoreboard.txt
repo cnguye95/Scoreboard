@@ -167,4 +167,4 @@ August 18:
 - 1 job app sent
 
 August 19:
-- 
+- pushed early Luka draft to gh
