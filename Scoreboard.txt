@@ -183,7 +183,9 @@ August 23:
 - 1 Luka commit
 
 August 24: 
--
+- 1 job app sent
+- Yoda commit
+- 
 
 August 25:
 -
