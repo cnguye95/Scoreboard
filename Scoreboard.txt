@@ -194,4 +194,5 @@ August 26:
 - 6 job apps sent
 
 August 27:
-- 
+- Yoda commit
+- 3 Leetcode problems
