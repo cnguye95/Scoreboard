@@ -196,3 +196,6 @@ August 26:
 August 27:
 - Yoda commit
 - 3 Leetcode problems
+
+August 28:
+- Luka commit
