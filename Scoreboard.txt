@@ -205,3 +205,6 @@ August 29:
 
 August 30:
 - completed round 2 assessment for ____ job
+
+August 31:
+- 2 Leetcode probs
