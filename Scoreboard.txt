@@ -208,3 +208,6 @@ August 30:
 
 August 31:
 - 2 Leetcode probs
+
+Sept. 1:
+- Luka commits
