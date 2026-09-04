@@ -215,3 +215,6 @@ Sept. 1:
 Sept. 2:
 - Luka commits
 - 2 Leetcodes
+
+Sept. 3:
+- Luka commits
