@@ -290,3 +290,6 @@ Sept 26:
 
 Sept 27:
 - obtained AWS AIP cert
+
+Sept. 28:
+-
