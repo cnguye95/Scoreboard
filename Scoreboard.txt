@@ -353,3 +353,6 @@ Oct 18:
 10/27:
 - more work on Yoda, verified by Github commits
 - Mercor contract offer, onboarding 
+
+10/28:
+- more Yoda work
