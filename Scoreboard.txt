@@ -348,4 +348,7 @@ Oct 18:
 - 1 interview
 
 10/26:
-- Luka commits
+- Yoda commits
+
+10/27:
+- more work on Yoda, verified by Github commits
