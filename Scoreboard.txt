@@ -356,3 +356,7 @@ Oct 18:
 
 10/28:
 - more Yoda work
+
+10/29:
+- interview
+- Yoda work
