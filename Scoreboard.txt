@@ -360,3 +360,9 @@ Oct 18:
 10/29:
 - interview
 - Yoda work
+
+10/30:
+- Yoda
+
+10/31:
+- Yoda smoke run, full test, README update
