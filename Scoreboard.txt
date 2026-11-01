@@ -365,4 +365,4 @@ Oct 18:
 - Yoda
 
 10/31:
-- Yoda smoke run, full test, README update
+- Yoda smoke run, full test, README update, final prep for eval run
