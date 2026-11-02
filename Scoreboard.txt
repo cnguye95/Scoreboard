@@ -367,3 +367,7 @@ Oct 18:
 10/31:
 - Yoda smoke run, full test, README update, final prep for eval run
 - created job-tailoring skill (Claude Chat)
+
+11/1:
+- Yoda full eval
+  - issues and success found
