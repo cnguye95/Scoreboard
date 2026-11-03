@@ -371,3 +371,7 @@ Oct 18:
 11/1:
 - Yoda full eval
   - issues and success found
+
+11/2:
+- job app
+- Yoda judge test
