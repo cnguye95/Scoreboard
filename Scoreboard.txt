@@ -375,3 +375,10 @@ Oct 18:
 11/2:
 - job app
 - Yoda judge test
+
+11/3:
+- Yoda
+
+11/5:
+- 1 job interview
+- 1 contract signed
